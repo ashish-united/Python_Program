@@ -1,4 +1,4 @@
-str ="Aarti Love Annant"
+str ="I love you"
 A = list(str)
 c =A[0]
 A[0]=A[-1]
